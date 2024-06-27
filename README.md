@@ -1,4 +1,4 @@
-# ProjetoIntergrador-TO-DO-list-
+# Projeto Intergrador TO-DO-list 
 
 ## Status do Projeto
 Em Desenvolvimento
